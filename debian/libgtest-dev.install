@@ -1,0 +1,3 @@
+debian/tmp/usr/lib/*/libgtest*
+debian/tmp/usr/lib/*/cmake/GTest/*
+debian/tmp/usr/include/gtest
